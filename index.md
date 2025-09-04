@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
-## My name is Reese! I'm from Portland and this is my website.
+# Reese's First CS193 Homework
+My favorite things about CS193:
+- I know people in it
+- A chill class
+- 1 credit class
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
