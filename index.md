@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 # Reese's First CS193 Homework
 My favorite things about CS193:
 - I know people in it
